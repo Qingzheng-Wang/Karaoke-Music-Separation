@@ -12,7 +12,7 @@ This repository contains the implementation of an unsupervised framework for Bli
 **Separation Results**
 
 <audio controls>
-  <source src="results_final/abjones_1_03_instr_20241209-230219.wav" type="audio/mpeg">
+  <source src="results_final/abjones_1_03_instr_20241209-230219.wav" type="audio/wav">
 </audio>
 
 **Usage**
