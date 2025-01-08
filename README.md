@@ -1,4 +1,4 @@
-# Music-Separation
+# Karaoke Music Separation
 Blind source separation for Karaoke system utilizing pitch inference and non-negative matrix factorization.  
 
 [[Introduction Video]](https://drive.google.com/file/d/15Mt1g5Qd_l55M_n-H6ARp4fXpuWETiz4/view?usp=sharing) [[Report]](./report.pdf)
