@@ -38,7 +38,7 @@ python code/main.py
 /dataset  
     ├── Train and test data paths  
     ├── Processed train and test data  
-    ├── MIR-1K dataset  
+    ├── MIR-1K dataset, please download at http://mirlab.org/dataset/public/
     └── Wave files to test the final solution
 ```
 
