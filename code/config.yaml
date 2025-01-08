@@ -1,0 +1,7 @@
+wav_dir: './dataset/MIR-1K/Wavfile'
+dataset_dir: './dataset'
+results_dir: './results'
+model_dir: './model'
+num_iters_train: 10
+num_iters_test: 10
+num_bases: 8
