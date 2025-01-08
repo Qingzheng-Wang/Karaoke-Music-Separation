@@ -9,6 +9,13 @@ This repository contains the implementation of an unsupervised framework for Bli
 - **Pitch-Based Binary Masking**: Extracts vocal harmonics by estimating the fundamental frequency of vocal signals, isolating vocal components in the spectrogram.
 - **Non-Negative Matrix Factorization (NMF)**: Models and predicts accompaniment patterns using non-vocal spectrogram segments, allowing accurate separation of accompaniment from vocals.
 
+**Separation Results**
+
+<audio controls>
+  <source src="results_final/abjones_1_03_instr_20241209-230219.wav" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
 **Usage**
 
 ```
