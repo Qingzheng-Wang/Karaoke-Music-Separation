@@ -1,7 +1,13 @@
 # Karaoke Music Separation
-Blind source separation for Karaoke system utilizing pitch inference and non-negative matrix factorization.  
+This repository contains the implementation of an unsupervised framework for Blind Source Separation (BSS) in audio signals, specifically designed for separating vocal and accompaniment tracks in karaoke music. The proposed approach combines pitch-based binary masking and non-negative matrix factorization (NMF) to achieve high-quality separation without the need for labeled training data.
 
 [[Introduction Video]](https://drive.google.com/file/d/15Mt1g5Qd_l55M_n-H6ARp4fXpuWETiz4/view?usp=sharing) [[Report]](./report.pdf)
+
+**Key Features**
+
+- **Unsupervised Framework**: No labeled data required, enabling flexible application to diverse and unlabeled audio environments.
+- **Pitch-Based Binary Masking**: Extracts vocal harmonics by estimating the fundamental frequency of vocal signals, isolating vocal components in the spectrogram.
+- **Non-Negative Matrix Factorization (NMF)**: Models and predicts accompaniment patterns using non-vocal spectrogram segments, allowing accurate separation of accompaniment from vocals.
 
 **Usage**
 
