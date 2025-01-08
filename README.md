@@ -13,7 +13,6 @@ This repository contains the implementation of an unsupervised framework for Bli
 
 <audio controls>
   <source src="results_final/abjones_1_03_instr_20241209-230219.wav" type="audio/mpeg">
-  Your browser does not support the audio element.
 </audio>
 
 **Usage**
